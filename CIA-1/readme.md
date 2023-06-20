@@ -23,4 +23,4 @@ The Lavasa Airlines is an application which enbles the users to book airtickets 
  * Seat Class
  * Additional Passenger ( and their details)
 5.Ticket Details : After providing the required information the users can view their ticket details which includes passenger names, ages, gender, class and travel date.
-
+All the functionalities are coded using different functions like user defined function(), label(), class(), OptionMenu(), nested loops(if, elif, else, for) and graphic user interfase is made using the package tkinter
